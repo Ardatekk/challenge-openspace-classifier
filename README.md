@@ -56,13 +56,14 @@ Your program should:
 
 ## ⚙️ Project Structure
 
+```text
 openspace-organizer/
 │
 ├─ README.md
 ├─ main.py
 ├─ assets/
-│ └─ OpenSpaceBanner.png
+│  └─ OpenSpaceBanner.png
 └─ utils/
-├─ file_utils.py
-├─ table.py
-└─ openspace.py
+   ├─ file_utils.py
+   ├─ table.py
+   └─ openspace.py
