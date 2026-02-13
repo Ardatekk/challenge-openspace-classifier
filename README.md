@@ -1,7 +1,7 @@
 
 # OpenSpace Seat Organizer
 
-![OpenSpace Seat Organizer](/assets/"C:\Users\ardat\Downloads\OpenSpaceBanner.png")
+![OpenSpace Seat Organizer](/assets/ChatGPT Image 13 Şub 2026 15_03_29.png)
 
 ## 🚀 Challenge Overview
 **Type:** Consolidation  
