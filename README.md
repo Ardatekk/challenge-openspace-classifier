@@ -1,7 +1,7 @@
 
 # OpenSpace Seat Organizer
 
-![OpenSpace Seat Organizer](/assets/ChatGPT Image 13 Şub 2026 15_50_31.png)
+![OpenSpace Seat Organizer](/assets/ChatGPT%20Image%2013%20Şub%202026%2015_03_29.png)
 
 ## 🚀 Challenge Overview
 **Type:** Consolidation  
