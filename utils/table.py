@@ -3,9 +3,8 @@ class Seat:
     #This class represents a seat.
 
     def __init__(self) -> None:
-        """
-        Initialize a seat.
-        """
+        #Initialize a seat.
+        
         self.free = True
         self.occupant = ""
 
