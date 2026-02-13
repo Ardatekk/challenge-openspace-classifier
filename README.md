@@ -1,7 +1,7 @@
 
 # OpenSpace Seat Organizer
 
-![OpenSpace Seat Organizer](/assets/OpenSpaceBanner.png)
+![OpenSpace Seat Organizer](/assets/"C:\Users\ardat\Downloads\OpenSpaceBanner.png")
 
 ## 🚀 Challenge Overview
 **Type:** Consolidation  
